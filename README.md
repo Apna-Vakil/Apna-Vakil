@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Apna-Vakil
-- 👀 I’m interested in building an app for my startup in react native
-- 🌱 I’m currently learning fullstack javascript
+- 👀 I’m the one who will help in legal services.
+- 🌱 My tech is mostly of two languages - Python and Javascript.
 - 💞️ I’m looking to collaborate on react native app development
 - 📫 How to reach me - office@apnavakil.online 
 - 😄 Pronouns: whatever you like
